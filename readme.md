@@ -6,7 +6,7 @@ Great! Please submit a pull request and work on your modification, once your cod
 **Remember —** Make sure the changes you are making meet the SPDY policies on written voice and visual style. If they don’t, I think you know the answer.
 
 ## How does this website work?
-Good question! The website is hosted on GitHub Pages to aid simple collaboration and modification. The site is majority HTML and was built with Bootstrap.
+Good question! The website's files are hosted on GitHub to aid simple collaboration and modification, which is then linked to a SPDY server which hosts the production site. The site is majority HTML and was built with Bootstrap.
 
 ## There is an issue on your website
 We try to ensure that our services are as issue-free as possible, however everyone makes mistakes. Please [create an issue](https://github.com/spdygroup/website/issues) on this repository and we’ll fix it. You can also send information about issues and other feedback via email to [feedback@spdygroup.com](mailto:feedback@spdygroup.com).
